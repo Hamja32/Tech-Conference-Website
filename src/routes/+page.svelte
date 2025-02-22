@@ -50,7 +50,7 @@
     <section class="hero">
         <h1>Tech Conference 2025</h1>
         <p>The premier event for technology professionals and enthusiasts to explore innovations and connect.. 🚀</p>
-        <a href="https" class="btn btn-primary goBtn btn-lg">Register Now</a>
+        <a href="/contact" class="btn btn-primary goBtn btn-lg">Register Now</a>
     </section>
 
     <script>
