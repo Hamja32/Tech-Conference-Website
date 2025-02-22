@@ -4,7 +4,7 @@
         .hero {
             min-height:50vh;
             /* min-width: 500px; */
-           
+            background: linear-gradient(rgb(67, 67, 68),rgba(228, 240, 96, 0.7));
             block-size: cover;
             background-position: center;
             color: white;
